@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.AssemblyInfo.cs
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.exe
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.deps.json
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.runtimeconfig.json
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.dll
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\bin\Debug\netcoreapp3.1\Ex_Variables_Net.pdb
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.dll
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.pdb
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.genruntimeconfig.cache
+C:\Users\franc\source\repos\Ex_Variables_Net\Ex_Variables_Net\obj\Debug\netcoreapp3.1\Ex_Variables_Net.csprojAssemblyReference.cache
